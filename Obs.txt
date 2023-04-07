@@ -1,1 +1,3 @@
-
+Texto modificado (17:42)
+Texto modificado conflito branch 2 (17:46)
+texto modificado conflito branch 3 (17:48)
