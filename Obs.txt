@@ -1,1 +1,9 @@
+
 Texto modificado para conflito  (18:07)
+
+Esta linha de texto foi criada como exemplo
+
+Mais uma linha adicionado (PULL nº 2)
+
+Mais um teste de linha (PUSH)
+
